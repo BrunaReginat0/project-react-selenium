@@ -1,0 +1,6 @@
+Caso acabou de dar git clone em um novo dispositivo faça:
+
+npm install
+tailwind
+npm install lucide-react@0.435.0
+npm install uuid@10.0.0
