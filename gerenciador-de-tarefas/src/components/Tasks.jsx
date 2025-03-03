@@ -27,3 +27,5 @@ function Tasks({ tasks, onTaskClick, onDeleteTaskClick }) {
     </ul>
   );
 }
+
+export default Tasks;
